@@ -38,7 +38,7 @@ To run the project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/iris-decision-tree.git
+    git clone https://github.com/anand23124/iris-decision-tree.git
     cd iris-decision-tree
     ```
 
